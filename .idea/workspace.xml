@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7b5cf4a-0d71-4c8d-b968-1a2f99795d90" name="Changes" comment="defence task">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment1ads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinomialCoefficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ads1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumFinder.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Average.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Factorial.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eZoA0VEcnfSAe3p6xKhDIsZ2CX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Average.executor": "Run",
+    "Application.AverageCalculator.executor": "Run",
+    "Application.BinomialCoefficient.executor": "Run",
+    "Application.CheckDigits.executor": "Run",
+    "Application.Defence.executor": "Run",
+    "Application.DefenceAss1.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinimFinder.executor": "Run",
+    "Application.Minimum.executor": "Run",
+    "Application.MinimumFinder.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Defence">
+    <configuration name="Defence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Defence" />
+      <module name="assignment1ads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumFinder" />
+      <module name="assignment1ads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Defence" />
+        <item itemvalue="Application.MinimumFinder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b5cf4a-0d71-4c8d-b968-1a2f99795d90" name="Changes" comment="" />
+      <created>1712121313490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712121313490</updated>
+      <workItem from="1712121314550" duration="14205000" />
+      <workItem from="1713154136920" duration="2598000" />
+    </task>
+    <task id="LOCAL-00001" summary="finding minimum number">
+      <option name="closed" value="true" />
+      <created>1712512687794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712512687794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="get average">
+      <option name="closed" value="true" />
+      <created>1712513456171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712513456171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1712515848255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712515848255</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <option name="closed" value="true" />
+      <created>1712517985655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712517985655</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3">
+      <option name="closed" value="true" />
+      <created>1712518336555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712518336555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="defence task">
+      <option name="closed" value="true" />
+      <created>1713155389067</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713155389067</updated>
+    </task>
+    <task id="LOCAL-00007" summary="defence task">
+      <option name="closed" value="true" />
+      <created>1713156475479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713156475479</updated>
+    </task>
+    <task id="LOCAL-00008" summary="defence task">
+      <option name="closed" value="true" />
+      <created>1713156576410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713156576410</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finding minimum number" />
+    <MESSAGE value="get average" />
+    <MESSAGE value="1" />
+    <MESSAGE value="3" />
+    <MESSAGE value="defence task" />
+    <option name="LAST_COMMIT_MESSAGE" value="defence task" />
+  </component>
+</project>
